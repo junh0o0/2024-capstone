@@ -1,0 +1,549 @@
+[
+    {
+        "Index": "37540",
+        "RawText": "작동도 잘되고 성능이 최곱니다!! 다만 기존보다 룸콘트롤러 사이즈가 무척 커서 문틀에 걸쳐 설치되어 좀 불편하고 아쉬워요. ㅜ  그거빼곤 다 좋습니다.  ",
+        "Source": "쇼핑몰",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "경동나비엔 NGB550-13K",
+        "ReviewScore": "5",
+        "Syllable": "86",
+        "Word": "20",
+        "RDate": "20170331",
+        "Aspects": [
+            {
+                "Aspect": "기능",
+                "SentimentText": "작동도 잘되고 성능이 최곱니다!!",
+                "SentimentWord": "4",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "사이즈",
+                "SentimentText": "기존보다 룸콘트롤러 사이즈가 무척 커서 문틀에 걸쳐 설치되어 좀 불편하고 아쉬워요. ㅜ ",
+                "SentimentWord": "12",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "37541",
+        "RawText": "제품 성능이 무척 좋아서 따뜻하게 지내고 있어요. 만족해요. 가격도 저렴하게 아주 잘 샀어요~^^ ",
+        "Source": "쇼핑몰",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "경동나비엔 NGB550-13K",
+        "ReviewScore": "5",
+        "Syllable": "55",
+        "Word": "13",
+        "RDate": "20210201",
+        "Aspects": [
+            {
+                "Aspect": "기능",
+                "SentimentText": "제품 성능이 무척 좋아서 따뜻하게 지내고 있어요. 만족해요. ",
+                "SentimentWord": "8",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "가격",
+                "SentimentText": "가격도 저렴하게 아주 잘 샀어요~^^",
+                "SentimentWord": "5",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "37542",
+        "RawText": "오래된 보일러가 갑자기 고장나서 새로 000 브랜드로 구매후 설치했는데 품질이 너무 좋네요~ 성능도 무척 좋아서 굉장히 따뜻하고 좋아요!!",
+        "Source": "쇼핑몰",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "경동나비엔 NGB550-13K",
+        "ReviewScore": "5",
+        "Syllable": "77",
+        "Word": "18",
+        "RDate": "20180618",
+        "Aspects": [
+            {
+                "Aspect": "품질",
+                "SentimentText": "오래된 보일러가 갑자기 고장나서 새로 000 브랜드로 구매후 설치했는데 품질이 너무 좋네요~",
+                "SentimentWord": "12",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": "성능도 무척 좋아서 굉장히 따뜻하고 좋아요!!",
+                "SentimentWord": "6",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "37544",
+        "RawText": "제품 성능이 굉장히 좋아서 따뜻하게 지냅니다.구매추천합니다~~^^ 이벤트가로 저렴하게 구매하고 제품도 가성비 좋은 제품이라 마음에 듭니다",
+        "Source": "쇼핑몰",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "경동나비엔 NGB550-13K",
+        "ReviewScore": "5",
+        "Syllable": "76",
+        "Word": "15",
+        "RDate": "20200507",
+        "Aspects": [
+            {
+                "Aspect": "기능",
+                "SentimentText": "제품 성능이 굉장히 좋아서 따뜻하게 지냅니다.구매추천합니다~~^^",
+                "SentimentWord": "6",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "가격",
+                "SentimentText": " 이벤트가로 저렴하게 구매하고 제품도 가성비 좋은 제품이라 마음에 듭니다",
+                "SentimentWord": "9",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "37547",
+        "RawText": "제품 디자인이 예쁘고 깔끔해서 마음에 들어요. 다만 생각지도 못했던 굴둑 비용이 추가로 발생해서 아쉬웠어요...",
+        "Source": "쇼핑몰",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "경동나비엔 NGB550-13K",
+        "ReviewScore": "4",
+        "Syllable": "62",
+        "Word": "14",
+        "RDate": "20181101",
+        "Aspects": [
+            {
+                "Aspect": "디자인",
+                "SentimentText": "제품 디자인이 예쁘고 깔끔해서 마음에 들어요.",
+                "SentimentWord": "6",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "가격",
+                "SentimentText": "다만 생각지도 못했던 굴둑 비용이 추가로 발생해서 아쉬웠어요...",
+                "SentimentWord": "8",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "37548",
+        "RawText": "역시 000 브랜드 후기가 좋은 이유가 있네요 직접 사용해보니 좋다는걸 바로 느껴 만족중입니다~ 제품 가격도 저렴하게 잘 사서 너무 좋네요. ",
+        "Source": "쇼핑몰",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "경동나비엔 NGB550-13K",
+        "ReviewScore": "5",
+        "Syllable": "79",
+        "Word": "20",
+        "RDate": "20200320",
+        "Aspects": [
+            {
+                "Aspect": "제조일/제조사",
+                "SentimentText": "역시 000 브랜드 후기가 좋은 이유가 있네요 직접 사용해보니 좋다는걸 바로 느껴 만족중입니다~",
+                "SentimentWord": "13",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "가격",
+                "SentimentText": "제품 가격도 저렴하게 잘 사서 너무 좋네요.",
+                "SentimentWord": "7",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "37551",
+        "RawText": "보일러 성능도 좋아서 작동도 잘되고 잘 사용하고 있습니다! 소음도 조용한편이여서 만족스러워요~",
+        "Source": "쇼핑몰",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "경동나비엔 NGB550-13K",
+        "ReviewScore": "5",
+        "Syllable": "52",
+        "Word": "11",
+        "RDate": "20200130",
+        "Aspects": [
+            {
+                "Aspect": "기능",
+                "SentimentText": "보일러 성능도 좋아서 작동도 잘되고 잘 사용하고 있습니다! ",
+                "SentimentWord": "8",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "소음",
+                "SentimentText": " 소음도 조용한편이여서 만족스러워요~",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "37552",
+        "RawText": "성능이 너무 좋아 더울지경이예요^^ ㅎㅎ 작동시 소리도 거의 안들려서 귀가 편안해요~",
+        "Source": "쇼핑몰",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "경동나비엔 NGB550-13K",
+        "ReviewScore": "5",
+        "Syllable": "47",
+        "Word": "11",
+        "RDate": "20170815",
+        "Aspects": [
+            {
+                "Aspect": "기능",
+                "SentimentText": "성능이 너무 좋아 더울지경이예요^^ ㅎㅎ",
+                "SentimentWord": "5",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "소음",
+                "SentimentText": " 작동시 소리도 거의 안들려서 귀가 편안해요~",
+                "SentimentWord": "6",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "37554",
+        "RawText": "착한 가격으로 구입해서 정말 좋아요. 오래된 보일러 사용하다가 새제품으로 교체하니 성능이 더 좋네요!!",
+        "Source": "쇼핑몰",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "경동나비엔 NGB550-13K",
+        "ReviewScore": "5",
+        "Syllable": "57",
+        "Word": "13",
+        "RDate": "20180421",
+        "Aspects": [
+            {
+                "Aspect": "가격",
+                "SentimentText": "착한 가격으로 구입해서 정말 좋아요.",
+                "SentimentWord": "5",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": "오래된 보일러 사용하다가 새제품으로 교체하니 성능이 더 좋네요!!",
+                "SentimentWord": "8",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "37555",
+        "RawText": "다른곳보다 가격이 저렴해서 만족스러워요. 기존에 사용한 보일러가 오래된거라  000 브랜드로 바꿨는데 사용해보니 성능 너무 좋고 마음에 쏙 들어요!",
+        "Source": "쇼핑몰",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "경동나비엔 NGB550-13K",
+        "ReviewScore": "5",
+        "Syllable": "82",
+        "Word": "18",
+        "RDate": "20190810",
+        "Aspects": [
+            {
+                "Aspect": "가격",
+                "SentimentText": "다른곳보다 가격이 저렴해서 만족스러워요.",
+                "SentimentWord": "4",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": "기존에 사용한 보일러가 오래된거라  000 브랜드로 바꿨는데 사용해보니 성능 너무 좋고 마음에 쏙 들어요!",
+                "SentimentWord": "14",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "37556",
+        "RawText": "후기처럼 제품 성능이 정말 너무 좋아서 만족합니다.너무 따뜻해졌어요^^ 품질도 좋아서 제품이 더 맘에 드네요~",
+        "Source": "쇼핑몰",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "경동나비엔 NGB550-13K",
+        "ReviewScore": "5",
+        "Syllable": "61",
+        "Word": "14",
+        "RDate": "20180423",
+        "Aspects": [
+            {
+                "Aspect": "기능",
+                "SentimentText": "후기처럼 제품 성능이 정말 너무 좋아서 만족합니다.너무 따뜻해졌어요^^",
+                "SentimentWord": "8",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "품질",
+                "SentimentText": "품질도 좋아서 제품이 더 맘에 드네요~",
+                "SentimentWord": "6",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "37572",
+        "RawText": "결코 저렴한 가격이 아니네요... 추가비용 나와서 열받네요ㅜ 제품 소음도 은근 심하고 너무 별로예요ㅠㅠ ",
+        "Source": "쇼핑몰",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "린나이 R324-16KF",
+        "ReviewScore": "2",
+        "Syllable": "58",
+        "Word": "13",
+        "RDate": "20171219",
+        "Aspects": [
+            {
+                "Aspect": "가격",
+                "SentimentText": "결코 저렴한 가격이 아니네요... 추가비용 나와서 열받네요ㅜ",
+                "SentimentWord": "7",
+                "SentimentPolarity": "-1"
+            },
+            {
+                "Aspect": "소음",
+                "SentimentText": "제품 소음도 은근 심하고 너무 별로예요ㅠㅠ",
+                "SentimentWord": "6",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "37575",
+        "RawText": "새 보일러로 교체하니 빠르게 따뜻해지고 성능좋아서 어디하나 흠잡을데가 없어요 매우 만족해요! 보일러는 역시 000가  최고예요!!",
+        "Source": "쇼핑몰",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "린나이 R324-16KF",
+        "ReviewScore": "5",
+        "Syllable": "72",
+        "Word": "15",
+        "RDate": "20181028",
+        "Aspects": [
+            {
+                "Aspect": "기능",
+                "SentimentText": "새 보일러로 교체하니 빠르게 따뜻해지고 성능좋아서 어디하나 흠잡을데가 없어요 매우 만족해요!",
+                "SentimentWord": "11",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "제조일/제조사",
+                "SentimentText": "보일러는 역시 000가  최고예요!!",
+                "SentimentWord": "4",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "37576",
+        "RawText": "제품은 품질도 좋고 깔끔해서 너무 좋습니다. 근데 교체할곳이 많아 처음에 구매한 금액보다 추가비용이 꽤 나와서 저렴하게 산 느낌은 안들어서 좀 아쉬워요 ㅜ",
+        "Source": "쇼핑몰",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "린나이 R324-16KF",
+        "ReviewScore": "4",
+        "Syllable": "86",
+        "Word": "22",
+        "RDate": "20171120",
+        "Aspects": [
+            {
+                "Aspect": "품질",
+                "SentimentText": "제품은 품질도 좋고 깔끔해서 너무 좋습니다.",
+                "SentimentWord": "6",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "가격",
+                "SentimentText": "교체할곳이 많아 처음에 구매한 금액보다 추가비용이 꽤 나와서 저렴하게 산 느낌은 안들어서 좀 아쉬워요 ㅜ",
+                "SentimentWord": "15",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "37578",
+        "RawText": "보일러 작동도 너무 잘되서 집안이 빠르게 따뜻해져서 대만족입니다!! 가격도 아주 저렴하게  구입했네요~~^^",
+        "Source": "쇼핑몰",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "린나이 R324-16KF",
+        "ReviewScore": "4",
+        "Syllable": "60",
+        "Word": "12",
+        "RDate": "20180330",
+        "Aspects": [
+            {
+                "Aspect": "기능",
+                "SentimentText": "보일러 작동도 너무 잘되서 집안이 빠르게 따뜻해져서 대만족입니다!! ",
+                "SentimentWord": "8",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "가격",
+                "SentimentText": "가격도 아주 저렴하게  구입했네요~~^^",
+                "SentimentWord": "4",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "37591",
+        "RawText": "20년된 보일러 새제품으로 교체하니 성능이 확실히 더 좋아져서 대만족입니다!!  다만 제품 설치비용(교체비용 포함)이 예상보다 너무 비싸서(18만원) 너무 부담되고 당황스러웠어요. ㅜ",
+        "Source": "쇼핑몰",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "린나이 RC300-22KF",
+        "ReviewScore": "4",
+        "Syllable": "102",
+        "Word": "20",
+        "RDate": "20170907",
+        "Aspects": [
+            {
+                "Aspect": "기능",
+                "SentimentText": "20년된 보일러 새제품으로 교체하니 성능이 확실히 더 좋아져서 대만족입니다!! ",
+                "SentimentWord": "9",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "가격",
+                "SentimentText": "제품 설치비용(교체비용 포함)이 예상보다 너무 비싸서(18만원) 너무 부담되고 당황스러웠어요. ㅜ ",
+                "SentimentWord": "10",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "37592",
+        "RawText": "좋은 제품 저렴한 가격에 구입해서 너무 좋습니다!! 제품 성능도 탁월해서 집이 금새 따뜻해져서 만족합니다.  나중에 제품 교체전과 가스비만 비교해보려구요..",
+        "Source": "쇼핑몰",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "린나이 RC300-22KF",
+        "ReviewScore": "5",
+        "Syllable": "87",
+        "Word": "19",
+        "RDate": "20181207",
+        "Aspects": [
+            {
+                "Aspect": "가격",
+                "SentimentText": "좋은 제품 저렴한 가격에 구입해서 너무 좋습니다!!",
+                "SentimentWord": "7",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": "제품 성능도 탁월해서 집이 금새 따뜻해져서 만족합니다. ",
+                "SentimentWord": "7",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "37593",
+        "RawText": "인터넷에서 주문/ 설치했더니 설치기사님이 설치비 19만원 청구하심. ㅜ 너무 비싸 화나네요.ㅜ 사용해보니 소음도 큰편이고 실망이네요ㅠ ",
+        "Source": "쇼핑몰",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "린나이 RC300-22KF",
+        "ReviewScore": "1",
+        "Syllable": "75",
+        "Word": "15",
+        "RDate": "20180823",
+        "Aspects": [
+            {
+                "Aspect": "가격",
+                "SentimentText": "인터넷에서 주문/ 설치했더니 설치기사님이 설치비 19만원 청구하심. ㅜ 너무 비싸 화나네요.ㅜ",
+                "SentimentWord": "11",
+                "SentimentPolarity": "-1"
+            },
+            {
+                "Aspect": "소음",
+                "SentimentText": "사용해보니 소음도 큰편이고 실망이네요ㅠ",
+                "SentimentWord": "4",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "37594",
+        "RawText": "성능은 탁월해서 따뜻한 온수도 바로 나오고 아주 만족스러워요. 다만 제품 소비전련효율 등급이 1등급이 아니라는 점은 좀 실망스럽네요.. ㅜ 전기세 좀 나오겠어요.",
+        "Source": "쇼핑몰",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "린나이 RC300-22KF",
+        "ReviewScore": "5",
+        "Syllable": "90",
+        "Word": "21",
+        "RDate": "20201028",
+        "Aspects": [
+            {
+                "Aspect": "기능",
+                "SentimentText": "성능은 탁월해서 따뜻한 온수도 바로 나오고 아주 만족스러워요.",
+                "SentimentWord": "8",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "소비전력",
+                "SentimentText": "제품 소비전련효율 등급이 1등급이 아니라는 점은 좀 실망스럽네요.. ㅜ 전기세 좀 나오겠어요. ",
+                "SentimentWord": "12",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "37595",
+        "RawText": "작동도 잘되고 금방 따뜻해져서 성능굿~!^^ 생각보다 소음도 작아서 마음에 드네요.",
+        "Source": "쇼핑몰",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "린나이 RC300-22KF",
+        "ReviewScore": "5",
+        "Syllable": "46",
+        "Word": "10",
+        "RDate": "20180119",
+        "Aspects": [
+            {
+                "Aspect": "기능",
+                "SentimentText": "작동도 잘되고 금방 따뜻해져서 성능굿~!^^",
+                "SentimentWord": "5",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "소음",
+                "SentimentText": "생각보다 소음도 작아서 마음에 드네요.",
+                "SentimentWord": "5",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "37596",
+        "RawText": "이제품 절대 구입 비추합니다. ~! 최악~ ㅜㅜ 설치기사가 설치비외에 15만원이나 추가비용 더 청구하네요. ~! 사전에 안내도 없고 결국 비싸게 구매한 기분이라 기분이 안좋네요 자세한 문의와 여러상황 모두 체크해서 구매 절대 하지 마십시오.  소비자를 우습게 보는 이런 OOO회사가 요즘도 있다는게 믿어지지 않네요. 화납니다. ~!",
+        "Source": "쇼핑몰",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "린나이 RC300-22KF",
+        "ReviewScore": "1",
+        "Syllable": "185",
+        "Word": "43",
+        "RDate": "20171216",
+        "GeneralPolarity": "-1",
+        "Aspects": [
+            {
+                "Aspect": "가격",
+                "SentimentText": "설치기사가 설치비외에 15만원이나 추가비용 더 청구하네요. ~! 사전에 안내도 없고 결국 비싸게 구매한 기분이라 기분이 안좋네요",
+                "SentimentWord": "16",
+                "SentimentPolarity": "-1"
+            },
+            {
+                "Aspect": "제조일/제조사",
+                "SentimentText": "소비자를 우습게 보는 이런 OOO회사가 요즘도 있다는게 믿어지지 않네요. 화납니다. ~! ",
+                "SentimentWord": "11",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    }
+]

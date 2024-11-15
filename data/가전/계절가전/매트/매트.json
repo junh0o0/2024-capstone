@@ -1,0 +1,1705 @@
+[
+    {
+        "Index": "3691",
+        "RawText": "1인용이라 좀 작은감은 있는데 컬러는 예쁘네요",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "(온라인) 일월 절전형 양모매트 초특가_싱글",
+        "ReviewScore": "100",
+        "Syllable": "25",
+        "Word": "6",
+        "RDate": "20211012",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "사이즈",
+                "SentimentText": "1인용이라 좀 작은감은 있는데",
+                "SentimentWord": "4",
+                "SentimentPolarity": "0"
+            },
+            {
+                "Aspect": "색상",
+                "SentimentText": "컬러는 예쁘네요",
+                "SentimentWord": "2",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "3692",
+        "RawText": "가격저렴하게 잘 산것같아요^^ 사이즈는  딱 1인용 적당해요",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "(온라인) 일월 절전형 양모매트 초특가_싱글",
+        "ReviewScore": "100",
+        "Syllable": "33",
+        "Word": "7",
+        "RDate": "20220301",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "가격",
+                "SentimentText": "가격저렴하게 잘 산것같아요^^",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "사이즈",
+                "SentimentText": "사이즈는  딱 1인용 적당해요",
+                "SentimentWord": "4",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "3699",
+        "RawText": "소파에 깔기 딱 좋은 사이즈. 저는 바닥에 놓고 좌식책상 쓸 때 쓰려고 샀습니다. 무늬가 좀 요란할 줄 알았는데 부들부들한 섬유라서 실물은 은은한 편이고요. 다만 따로 포장비닐이나 상자없이 택배비닐에만 싼 채로 와서 조금 당황;;; 같은 회사 같은 사이즈 소재만 다른 매트가 있는데 그건 상자가 있었거든요.",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 50W 초절전형 전기매트 미니싱글",
+        "ReviewScore": "100",
+        "Syllable": "171",
+        "Word": "44",
+        "RDate": "20211117",
+        "Aspects": [
+            {
+                "Aspect": "사이즈",
+                "SentimentText": "소파에 깔기 딱 좋은 사이즈. 저는 바닥에 놓고 좌식책상 쓸 때 쓰려고 샀습니다.",
+                "SentimentWord": "13",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "디자인",
+                "SentimentText": " 무늬가 좀 요란할 줄 알았는데 부들부들한 섬유라서 실물은 은은한 편이고요.",
+                "SentimentWord": "10",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "3701",
+        "RawText": "따뜻하고 좋아요. 가볍워서 보관이동도편리하니 만족해요.",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블)",
+        "ReviewScore": "100",
+        "Syllable": "30",
+        "Word": "5",
+        "RDate": "20211025",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "기능",
+                "SentimentText": "따뜻하고 좋아요.",
+                "SentimentWord": "2",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "무게",
+                "SentimentText": "가볍워서 보관이동도편리하니 만족해요.",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "편의성",
+                "SentimentText": "보관이동도 편리하니 만족해요.",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "3702",
+        "RawText": "따뜻하니 좋네요. 튼튼하지 않아보여 불안해요.",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블)",
+        "ReviewScore": "80",
+        "Syllable": "25",
+        "Word": "5",
+        "RDate": "20211003",
+        "GeneralPolarity": "0",
+        "Aspects": [
+            {
+                "Aspect": "기능",
+                "SentimentText": "따뜻하니 좋네요. ",
+                "SentimentWord": "2",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "품질",
+                "SentimentText": "튼튼하지 않아보여 불안해요.",
+                "SentimentWord": "3",
+                "SentimentPolarity": "0"
+            }
+        ]
+    },
+    {
+        "Index": "3703",
+        "RawText": "무이자 12개월이라해서 구매했는데ㆍ월 청구금액이 이자까지 청구되서인출되네요ㆍ상담사에게 여려차례 문제제기했는데ㆍ곧 이자부분에대하여 입금하여준다고하고 아직까지도 문제 해결이되지않은 불량한(0쇼핑)입니다ㆍ고객들께 사기치는건지 아니면 고객을 봉으로생각하는건지  법적으로 문제해결을 할수밖에없군요ㆍ 색상이 너무 어르신들 취향이네요 마음에 들지 않아요 그리고 온도를 올리는데 그렇게 따뜻하지 않아요 품질에 불만입니다",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블)",
+        "ReviewScore": "10",
+        "Syllable": "226",
+        "Word": "36",
+        "RDate": "20211017",
+        "Aspects": [
+            {
+                "Aspect": "색상",
+                "SentimentText": "색상이 너무 어르신들 취향이네요 마음에 들지 않아요",
+                "SentimentWord": "7",
+                "SentimentPolarity": "-1"
+            },
+            {
+                "Aspect": "품질",
+                "SentimentText": "그리고 온도를 올리는데 그렇게 따뜻하지 않아요 품질에 불만입니다",
+                "SentimentWord": "8",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "3704",
+        "RawText": "배송받고 첫 잠 자려고 누웠는데 계속 약하게 삐소리가 나길래 어디지?찾아봤는데..이쪽 부분에서 소리가.. 전류흐르는것처럼..삐삐삐삐......지지지지지..........이거먼가요? 아이들과 같이 누웠던터라 놀라 바로 꺼버렸는데... 그래도 계속 소리가나요ㅠㅠ 전원코드 뽑아버렸네요.. 그러니 소리가 안나는데.. 배송도 엄청 오래걸리고 00이라 믿고 구매했는데..너무 실망스럽네요. 계속 사용 할수 없을거같네요",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블)",
+        "ReviewScore": "100",
+        "Syllable": "228",
+        "Word": "38",
+        "RDate": "20211023",
+        "Aspects": [
+            {
+                "Aspect": "소음",
+                "SentimentText": "약하게 삐소리가 나길래 어디지?찾아봤는데..이쪽 부분에서 소리가..",
+                "SentimentWord": "6",
+                "SentimentPolarity": "-1"
+            },
+            {
+                "Aspect": "품질",
+                "SentimentText": "전류흐르는것처럼..삐삐삐삐......지지지지지..........이거먼가요",
+                "SentimentWord": "1",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "3705",
+        "RawText": "그냥 깔아 놓기만 해도 따뜻해 지는 위안~ 새벽에 서늘해서 켰는데 와~~ 너무 좋아!! 왜 진작 구매 하지 않았을까 침대속은 발이 시려워 핫팩 넣고 이불 두채로 보온을 유지 했는데 이제는 가볍게 잘 수있고 따뜻한 온기에 푹~~  잘 수 있어 너무 좋아요 근데 이제품 괜찮은데~~ 잘 샀군!!~~~^-^",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블+더블)",
+        "ReviewScore": "100",
+        "Syllable": "168",
+        "Word": "45",
+        "RDate": "20211022",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "기능",
+                "SentimentText": "그냥 깔아 놓기만 해도 따뜻해 지는 위안",
+                "SentimentWord": "7",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": "따뜻한 온기에 푹~~  잘 수 있어 너무 좋아요",
+                "SentimentWord": "8",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "품질",
+                "SentimentText": "근데 이제품 괜찮은데~~ 잘 샀군!!",
+                "SentimentWord": "5",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "3706",
+        "RawText": "살까말까 고민하다 구입했는데  사용해보니 장단점이 확 느껴지네요 ..  제질이 고급스럽고 오래사용할수 있을거 같아 맘에 듭니다.",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블+더블)",
+        "ReviewScore": "100",
+        "Syllable": "71",
+        "Word": "15",
+        "RDate": "20211021",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "기능",
+                "SentimentText": "사용해보니 장단점이 확 느껴지네요 ..",
+                "SentimentWord": "5",
+                "SentimentPolarity": "0"
+            },
+            {
+                "Aspect": "소재",
+                "SentimentText": "제질이 고급스럽고 오래사용할수 있을거 같아 맘에 듭니다. ",
+                "SentimentWord": "7",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "3707",
+        "RawText": "간절기에 다소의 추위를 해결하기도 하고  난방을 하지 않는 초겨울 동안 사용하기 위한 용도로 구매했는데, 금방 따뜻해서 좋지만 바스락 소리에 예민한 사람은 잠에 방해될 것 같으며, 두께감이 얇아 바닥에 하나만 깔고 자기엔 몸의 베김 등의 무리가 있어 메트리스나 두꺼운 요 위에 깔아야 할 듯해서, 브랜드를 믿고 구매한 마음이 좀 서운하네요. 위의 여러 이유로 비싼 가격에 샀다는 의구심이 큽니다.",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(싱글)",
+        "ReviewScore": "40",
+        "Syllable": "221",
+        "Word": "57",
+        "RDate": "20211104",
+        "GeneralPolarity": "0",
+        "Aspects": [
+            {
+                "Aspect": "기능",
+                "SentimentText": "금방 따뜻해서 좋지만",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "소음",
+                "SentimentText": "바스락 소리에 예민한 사람은 잠에 방해될 것 같으며",
+                "SentimentWord": "8",
+                "SentimentPolarity": "0"
+            },
+            {
+                "Aspect": "편의성",
+                "SentimentText": " 두께감이 얇아 바닥에 하나만 깔고 자기엔 몸의 베김 등의 무리가 있어 ",
+                "SentimentWord": "11",
+                "SentimentPolarity": "-1"
+            },
+            {
+                "Aspect": "가격",
+                "SentimentText": "위의 여러 이유로 비싼 가격에 샀다는 의구심이 큽니다.",
+                "SentimentWord": "8",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "3708",
+        "RawText": "자동OOO어쩌구 소리만 듣고 시간타이머가 있는줄 알고 시켰는데ㅠ 없고 단순 온/오프에 온도조절만 있는거였네요ㅜ 심지어 타TV홈쇼핑 에서 갖은 할인으로 싸게 산거보다 싸게 파네요ㅠ 이러면 믿고 구매하기 힘들죠...  배송빠른고 얇은거 장점으로 60프로 만족 드립니다ㅠ ",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(싱글)",
+        "ReviewScore": "60",
+        "Syllable": "149",
+        "Word": "31",
+        "RDate": "20211019",
+        "Aspects": [
+            {
+                "Aspect": "기능",
+                "SentimentText": "시간타이머가 있는줄 알고 시켰는데ㅠ없고",
+                "SentimentWord": "4",
+                "SentimentPolarity": "-1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": "단순 온/오프에 온도조절만 있는거였네요ㅜ",
+                "SentimentWord": "4",
+                "SentimentPolarity": "-1"
+            },
+            {
+                "Aspect": "가격",
+                "SentimentText": " 타TV홈쇼핑 에서 갖은 할인으로 싸게 산거보다 싸게 파네요ㅠ 이러면 믿고 구매하기 힘들죠... ",
+                "SentimentWord": "12",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "8614",
+        "RawText": "Tv쇼핑보고 주문 사용해보니 빨리 따뜻해져서 매우 유익하고 원터치로 온오프 가능해서  편리함",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "(온라인) 일월 절전형 양모매트 초특가_싱글",
+        "ReviewScore": "100",
+        "Syllable": "51",
+        "Word": "11",
+        "RDate": "20211219",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "기능",
+                "SentimentText": "사용해보니 빨리 따뜻해져서 매우 유익하고",
+                "SentimentWord": "5",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "조작성",
+                "SentimentText": "원터치로 온오프 가능해서 편리함",
+                "SentimentWord": "4",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8615",
+        "RawText": "가격이 대박 가성비 괜찮아요 사이즈 작은 걸 샀지만 생각보다 작아서 더 큰 걸 살걸 후회하고 있어요 그런데 00쇼핑 배송이 늦어도 너무 늦어요",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "(온라인) 일월 절전형 양모매트 초특가_싱글",
+        "ReviewScore": "70",
+        "Syllable": "79",
+        "Word": "22",
+        "RDate": "20211013",
+        "Aspects": [
+            {
+                "Aspect": "가격",
+                "SentimentText": "가격이 대박 가성비 괜찮아요",
+                "SentimentWord": "4",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "사이즈",
+                "SentimentText": "사이즈 작은 걸 샀지만 생각보다 작아서 더 큰 걸 살걸 후회하고 있어요",
+                "SentimentWord": "12",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "8616",
+        "RawText": "온도 조절 기능이 있어서 금방 뜨거워지고 가로 사이즈도 넉넉해요 적립금 이용해 잘 샀어요 따뜻한 겨울 보내세요!",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "(온라인) 일월 절전형 양모매트 초특가_싱글",
+        "ReviewScore": "100",
+        "Syllable": "62",
+        "Word": "16",
+        "RDate": "20211107",
+        "Aspects": [
+            {
+                "Aspect": "기능",
+                "SentimentText": "온도 조절 기능이 있어서 금방 뜨거워지고",
+                "SentimentWord": "6",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "사이즈",
+                "SentimentText": "가로 사이즈도 넉넉해요",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "가격",
+                "SentimentText": "적립금 이용해 잘 샀어요",
+                "SentimentWord": "4",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8617",
+        "RawText": "따뜻하게 잘쓰고잇어요 작동잘되고 금방 따뜻해지네요",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "(온라인) 일월 절전형 양모매트 초특가_싱글",
+        "ReviewScore": "100",
+        "Syllable": "27",
+        "Word": "5",
+        "RDate": "20211022",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "기능",
+                "SentimentText": "따뜻하게 잘쓰고잇어요 ",
+                "SentimentWord": "2",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "시간/속도",
+                "SentimentText": "작동잘되고 금방 따뜻해지네요",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8618",
+        "RawText": "좌우 분리 난방기능이 있네요 절전형이어서 생활에 도움이 됩니다 취침할 때는 추워도 1단계 하는게 좋아요.  저온화상 예방.  배송 빠르고 좋아요.",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "(온라인) 일월 절전형 양모매트 초특가_싱글",
+        "ReviewScore": "100",
+        "Syllable": "81",
+        "Word": "19",
+        "RDate": "20211205",
+        "Aspects": [
+            {
+                "Aspect": "소비전력",
+                "SentimentText": "좌우 분리 난방기능이 있네요 절전형이어서 생활에 도움이 됩니다",
+                "SentimentWord": "8",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": "취침할 때는 추워도 1단계 하는게 좋아요.  저온화상 예방. ",
+                "SentimentWord": "8",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8619",
+        "RawText": "배송은 느리지만 제품 품질은 그럭저럭 만족합니다. 온도 조절 유지 기능이 있어서 따뜻하네요 역시 00이네요",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "(온라인) 일월 절전형 양모매트 초특가_싱글",
+        "ReviewScore": "100",
+        "Syllable": "59",
+        "Word": "14",
+        "RDate": "20211026",
+        "Aspects": [
+            {
+                "Aspect": "품질",
+                "SentimentText": "제품 품질은 그럭저럭 만족합니다.",
+                "SentimentWord": "4",
+                "SentimentPolarity": "0"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": "온도 조절 유지 기능이 있어서 따뜻하네요",
+                "SentimentWord": "6",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "제조일/제조사",
+                "SentimentText": " 역시 00이네요",
+                "SentimentWord": "2",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8620",
+        "RawText": "빠른 배송 감사합니다.  이상없이 제품이 작동도 잘되고 열선 과열방지 기능이 없어서 걱정없네요 잘 사용하겠습니다.",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "(온라인) 일월 절전형 양모매트 초특가_싱글",
+        "ReviewScore": "80",
+        "Syllable": "63",
+        "Word": "14",
+        "RDate": "20220118",
+        "Aspects": [
+            {
+                "Aspect": "품질",
+                "SentimentText": "이상없이 제품이 작동도 잘되고",
+                "SentimentWord": "4",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": "열선 과열방지 기능이 없어서 걱정없네요",
+                "SentimentWord": "5",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8621",
+        "RawText": "싱글침대에 놓으니 잘 맞고요 착한가격에 맘껏 잘 쓸것 같아요 따뜻하고 시간조절이 되어 자동꺼짐 더욱 좋네요. 맘 편히 쓰는게 최고인것 같아요. 전자파차단 된다 하니 좋습니다.",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "(온라인) 일월 절전형 양모매트 초특가_싱글",
+        "ReviewScore": "100",
+        "Syllable": "97",
+        "Word": "24",
+        "RDate": "20210911",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "사이즈",
+                "SentimentText": "싱글침대에 놓으니 잘 맞고요",
+                "SentimentWord": "4",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "가격",
+                "SentimentText": "착한가격에 맘껏 잘 쓸것 같아요",
+                "SentimentWord": "5",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": "따뜻하고 시간조절이 되어 자동꺼짐더욱 좋네요.",
+                "SentimentWord": "5",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": " 전자파차단 된다 하니 좋습니다.",
+                "SentimentWord": "4",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8622",
+        "RawText": "아들 자취방에 필요해서  구입했어요  이상유무확인차  5분정도  켜보니 순식간에 따뜻해지네요   소재가 따뜻한 양모 함유 포함이 되어 있어서 따뜻해요 잘사용할게요",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "(온라인) 일월 절전형 양모매트 초특가_싱글",
+        "ReviewScore": "100",
+        "Syllable": "90",
+        "Word": "18",
+        "RDate": "20210928",
+        "Aspects": [
+            {
+                "Aspect": "시간/속도",
+                "SentimentText": "5분정도  켜보니 순식간에 따뜻해지네요",
+                "SentimentWord": "4",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "소재",
+                "SentimentText": "소재가 따뜻한 양모 함유 포함이 되어 있어서 따뜻해요",
+                "SentimentWord": "8",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8623",
+        "RawText": "온도조절후 원터치 방식으로 켜고끌수있어서 편리한것 같아요 소재가 안전할것 같아요. 사이즈등 전체적으로 맘에들어요.",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "(온라인) 일월 절전형 양모매트 초특가_싱글",
+        "ReviewScore": "100",
+        "Syllable": "63",
+        "Word": "12",
+        "RDate": "20211120",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "편의성",
+                "SentimentText": "온도조절후 원터치 방식으로 켜고끌수있어서 편리한것 같아요",
+                "SentimentWord": "6",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "소재",
+                "SentimentText": "소재가 안전할것 같아요.",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "사이즈",
+                "SentimentText": "사이즈등 전체적으로 맘에들어요.",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8624",
+        "RawText": "소재가 양모 함유 원단을 사용하여 따뜻해요 초특가 저렴하게 구입해서 더  신나네요~ 00쇼핑에서 두번째 구매하네요 포장도 맘에들고 좋습니다 강추",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "(온라인) 일월 절전형 양모매트 초특가_싱글",
+        "ReviewScore": "100",
+        "Syllable": "80",
+        "Word": "18",
+        "RDate": "20220122",
+        "Aspects": [
+            {
+                "Aspect": "소재",
+                "SentimentText": "소재가 양모 함유 원단을 사용하여 따뜻해요",
+                "SentimentWord": "6",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "가격",
+                "SentimentText": "초특가 저렴하게 구입해서 더  신나네요~",
+                "SentimentWord": "5",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8625",
+        "RawText": "잘 받았습니다. 배송도 빠르고 실용성 뛰어난 제품 퀄리티가 좋네요 싸게 잘 샀습니다.  따스하고 크기도 딱 좋습니다. 감사합니다.",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "(온라인) 일월 절전형 양모매트 초특가_싱글",
+        "ReviewScore": "100",
+        "Syllable": "72",
+        "Word": "17",
+        "RDate": "20211109",
+        "Aspects": [
+            {
+                "Aspect": "품질",
+                "SentimentText": "실용성 뛰어난 제품 퀄리티가 좋네요",
+                "SentimentWord": "5",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "가격",
+                "SentimentText": "싸게 잘 샀습니다. ",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "사이즈",
+                "SentimentText": "따스하고 크기도 딱 좋습니다.",
+                "SentimentWord": "4",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8626",
+        "RawText": "침대밑에 놓으려고 구입했는데 넘 좋아요 생각보다 두툼하고 푹신해요 따뜻해서 좋아요.",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "(온라인) 일월 절전형 양모매트 초특가_싱글",
+        "ReviewScore": "100",
+        "Syllable": "46",
+        "Word": "10",
+        "RDate": "20211112",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "소재",
+                "SentimentText": "생각보다 두툼하고 푹신해요",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": "따뜻해서 좋아요.",
+                "SentimentWord": "2",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8627",
+        "RawText": "폭신하고 좋아요 따뜻하고 가격도 좋아요",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "(온라인) 일월 절전형 양모매트 초특가_싱글",
+        "ReviewScore": "100",
+        "Syllable": "21",
+        "Word": "5",
+        "RDate": "20210923",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "소재",
+                "SentimentText": "폭신하고 좋아요",
+                "SentimentWord": "2",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": "따뜻하고 가격도 좋아요",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "가격",
+                "SentimentText": "가격도 좋아요",
+                "SentimentWord": "2",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8628",
+        "RawText": "혼자쓰기 사이즈 넉넉하고  온도조절기도  간단하니 좋아요.",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "(온라인) 일월 절전형 양모매트 초특가_싱글",
+        "ReviewScore": "100",
+        "Syllable": "32",
+        "Word": "6",
+        "RDate": "20220112",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "사이즈",
+                "SentimentText": "혼자쓰기 사이즈 넉넉하고  온도조절기도  간단하니 좋아요.",
+                "SentimentWord": "6",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "조작성",
+                "SentimentText": "  온도조절기도  간단하니 좋아요.",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8635",
+        "RawText": "3인용  쇼파에  전기장판 딱이고요 1인사용도 좋아요.",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 50W 초절전형 전기매트 미니싱글",
+        "ReviewScore": "100",
+        "Syllable": "30",
+        "Word": "6",
+        "RDate": "20211118",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "사이즈",
+                "SentimentText": "3인용  쇼파에  전기장판 딱이고요",
+                "SentimentWord": "4",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "편의성",
+                "SentimentText": "1인사용도 좋아요.",
+                "SentimentWord": "2",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8636",
+        "RawText": "소파형이나 겨울방석대용사이즈입니다 초미니쁘띠사이즈  ㅎ 온기는 후끈",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 50W 초절전형 전기매트 미니싱글",
+        "ReviewScore": "80",
+        "Syllable": "37",
+        "Word": "6",
+        "RDate": "20220109",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "사이즈",
+                "SentimentText": "소파형이나 겨울방석대용사이즈입니다 초미니쁘띠사이즈",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": " 온기는 후끈",
+                "SentimentWord": "2",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8641",
+        "RawText": "갑자기 추워져 고를새도없이 급하게 홈쇼핑나오길래 바로 주문했네요 00전기매트 전부터 알아보고있던찰나 디자인이 맘에드는게 품절되서 기다리다가 추워져서 급하게 주문했어요 어차피 이불안에 숨겨질텐데  디자인 예뻐서 뭐하나 합리화해보면서요ㅎㅎ 전기매트치고 저렴한가격은 아니지만 카본이라니상품은 만족하는데  어쨌든 좋겠지하고 주문! 별탈없이 하루잘쓰고 상품평써요  포장상태가 너무부실해서  너무성의가없는거아닌가싶어요  비닐에 넣고 밀봉조차안되있더라구요 공장에서 막찍어내서 대충보낸느낌이랄까 찝찝했지만 믿고그냥썼네요 깨끗하고 따뜻하고 안전하면되니까뭐.. ",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블)",
+        "ReviewScore": "80",
+        "Syllable": "304",
+        "Word": "49",
+        "RDate": "20211112",
+        "Aspects": [
+            {
+                "Aspect": "가격",
+                "SentimentText": "전기매트치고 저렴한가격은 아니지만 ",
+                "SentimentWord": "3",
+                "SentimentPolarity": "0"
+            },
+            {
+                "Aspect": "소재",
+                "SentimentText": "카본이라니 상품은 만족하는데",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8642",
+        "RawText": "너무 얇아서 열선이 등에 배기네요. 반품하려하다가 전자파 없다하니까 그냥 쓰려 합니다",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블)",
+        "ReviewScore": "70",
+        "Syllable": "47",
+        "Word": "11",
+        "RDate": "20210923",
+        "Aspects": [
+            {
+                "Aspect": "사이즈",
+                "SentimentText": "너무 얇아서 열선이 등에 배기네요. ",
+                "SentimentWord": "5",
+                "SentimentPolarity": "-1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": "반품하려하다가 전자파 없다하니까 그냥 쓰려 합니다",
+                "SentimentWord": "6",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8643",
+        "RawText": "배송진짜빨라요 스타일리쉬한 디자인은 좋은데  그레이 톤의 색상은 그다지 이쁘지 않은 것 같고 아직써보진않았지만 따뜻하리라생각합니다",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블)",
+        "ReviewScore": "50",
+        "Syllable": "72",
+        "Word": "14",
+        "RDate": "20210927",
+        "Aspects": [
+            {
+                "Aspect": "디자인",
+                "SentimentText": "스타일리쉬한 디자인은 좋은데",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "색상",
+                "SentimentText": " 그레이 톤의 색상은 그다지 이쁘지 않은 것 같고",
+                "SentimentWord": "8",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "8644",
+        "RawText": "시중에 전기매트 종류는 많은데 색상이 넘~ 단순하고 예쁜 제품이 없더라고요.근데 때마침 우연히 체널 돌리다가 스마트 카본매트를 접하게 되었는데 색이 넘~마음에 들고 디자인이 예뻐서 구매하게 되었답니다. 예쁘게 잘~쓰겠습니다 ^^",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블)",
+        "ReviewScore": "100",
+        "Syllable": "127",
+        "Word": "28",
+        "RDate": "20211016",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "색상",
+                "SentimentText": "색이 넘~마음에 들고",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "디자인",
+                "SentimentText": "디자인이 예뻐서 구매하게 되었답니다",
+                "SentimentWord": "4",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8645",
+        "RawText": "싼가격에좋았고.디자인또한굿엄청따뜻해서좋아요.",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블)",
+        "ReviewScore": "100",
+        "Syllable": "24",
+        "Word": "1",
+        "RDate": "20211006",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "가격",
+                "SentimentText": "싼가격에좋았고.",
+                "SentimentWord": "1",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "디자인",
+                "SentimentText": "디자인또한굿",
+                "SentimentWord": "1",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": "엄청따뜻해서좋아요.",
+                "SentimentWord": "1",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8646",
+        "RawText": "어머님이 00 세라믹 매트 사용하셨는데 고장나   방송보다 주문해드렸는데  가격대비 너무얇아요. 제품이 별로라 비싼듯ㅠㅠ 보기엔  일반 전기요 같은데... 다른점은 뭔지 질 살펴봐야겠네요 ",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블)",
+        "ReviewScore": "70",
+        "Syllable": "105",
+        "Word": "21",
+        "RDate": "20210904",
+        "GeneralPolarity": "-1",
+        "Aspects": [
+            {
+                "Aspect": "품질",
+                "SentimentText": "가격대비 너무얇아요.",
+                "SentimentWord": "2",
+                "SentimentPolarity": "-1"
+            },
+            {
+                "Aspect": "가격",
+                "SentimentText": "제품이 별로라 비싼듯ㅠㅠ",
+                "SentimentWord": "3",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "8647",
+        "RawText": "예전에 쓰던 자기성 매트에 비해 엄청 가벼워서 좋아요. 세팅되어진 상태로 테스트해보니 온도가 적당한 시간에 올라가는것 같아요. 다만 키가 장신이인분에게는 좀 작을것 같아요. 사이즈를 확인하세요.",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블)",
+        "ReviewScore": "80",
+        "Syllable": "108",
+        "Word": "24",
+        "RDate": "20210928",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "무게",
+                "SentimentText": "예전에 쓰던 자기성 매트에 비해 엄청 가벼워서 좋아요. ",
+                "SentimentWord": "8",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "시간/속도",
+                "SentimentText": " 온도가 적당한 시간에 올라가는것 같아요",
+                "SentimentWord": "5",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "사이즈",
+                "SentimentText": "다만 키가 장신이인분에게는 좀 작을것 같아요. 사이즈를 확인하세요.",
+                "SentimentWord": "8",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "8648",
+        "RawText": "상품은 빠르게 잘받았습니다. 색깔은 좀 촌스러워서 깜짝 놀랐어요~ 인공지능 조절기아 있어서 알아서 따뜻하게 해줘서 좋으네요  어머님이 만족해 하셔요",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블)",
+        "ReviewScore": "100",
+        "Syllable": "82",
+        "Word": "18",
+        "RDate": "20211024",
+        "Aspects": [
+            {
+                "Aspect": "색상",
+                "SentimentText": "색깔은 좀 촌스러워서 깜짝 놀랐어요~",
+                "SentimentWord": "5",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": "인공지능 조절기아 있어서 알아서 따뜻하게 해줘서 좋으네요",
+                "SentimentWord": "7",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8649",
+        "RawText": "전자파가 거의없고 물이 필요없어 좋아요~ 크기가  더블인데도 작아요ㅠㅠ",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블)",
+        "ReviewScore": "80",
+        "Syllable": "39",
+        "Word": "8",
+        "RDate": "20211027",
+        "GeneralPolarity": "0",
+        "Aspects": [
+            {
+                "Aspect": "내구성",
+                "SentimentText": "전자파가 거의없고 물이 필요없어 좋아요~",
+                "SentimentWord": "5",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "편의성",
+                "SentimentText": "물이 필요없어 좋아요~",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "사이즈",
+                "SentimentText": "크기가  더블인데도 작아요ㅠㅠ",
+                "SentimentWord": "3",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "8650",
+        "RawText": "품질 좋은 상품 구매해서 기분이 좋습니다~ 가격은 적정선이네요 싸지도 비싸지도 않고요",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블)",
+        "ReviewScore": "100",
+        "Syllable": "47",
+        "Word": "11",
+        "RDate": "20211024",
+        "Aspects": [
+            {
+                "Aspect": "품질",
+                "SentimentText": "품질 좋은 상품 구매해서 기분이 좋습니다~",
+                "SentimentWord": "6",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "가격",
+                "SentimentText": "가격은 적정선이네요 싸지도 비싸지도 않고요",
+                "SentimentWord": "5",
+                "SentimentPolarity": "0"
+            }
+        ]
+    },
+    {
+        "Index": "8651",
+        "RawText": "가볍고 이불처럼 접어서 농장에 넣을수 있네요 부모님이 너무 좋아하세요",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블+더블)",
+        "ReviewScore": "100",
+        "Syllable": "38",
+        "Word": "9",
+        "RDate": "20210912",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "무게",
+                "SentimentText": "가볍고 이불처럼 접어서 농장에 넣을수 있네요",
+                "SentimentWord": "6",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "편의성",
+                "SentimentText": "이불처럼 접어서 농장에 넣을수 있네요 ",
+                "SentimentWord": "5",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8652",
+        "RawText": "매우좋아여~^^ 하자도없고 두개에 이가격 좋아요#~",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블+더블)",
+        "ReviewScore": "100",
+        "Syllable": "28",
+        "Word": "5",
+        "RDate": "20211025",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "품질",
+                "SentimentText": "매우좋아여~^^ 하자도없고 ",
+                "SentimentWord": "2",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "가격",
+                "SentimentText": " 두개에 이가격 좋아요#~",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8653",
+        "RawText": "배송도 빠르니 만족합니다   더블 구성으로 구입해서 저렴해서 좋아요 따뜻하니 좋네요 성능 좋아요 추천해요.  온식구 쓰려고 한세트 더 구입했어요",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블+더블)",
+        "ReviewScore": "100",
+        "Syllable": "80",
+        "Word": "18",
+        "RDate": "20211004",
+        "Aspects": [
+            {
+                "Aspect": "가격",
+                "SentimentText": "더블 구성으로 구입해서 저렴해서 좋아요",
+                "SentimentWord": "5",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": "따뜻하니 좋네요 성능 좋아요 추천해요.",
+                "SentimentWord": "5",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8654",
+        "RawText": "온도조절기에 전기흐르는소리때문에 잠을못자겠어요 거슬려죽겠네요 진짜  지지지지지ㅣ치지지지직 주파수같은소리ㅡㅡ 바꿔주던지 환불해주세요 매트깔고 잤는데 따뜻한지 모르겠어요. 여행다녀와서 뒤늦게알았네요",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블+더블)",
+        "ReviewScore": "20",
+        "Syllable": "108",
+        "Word": "15",
+        "RDate": "20211108",
+        "GeneralPolarity": "-1",
+        "Aspects": [
+            {
+                "Aspect": "소음",
+                "SentimentText": "온도조절기에 전기흐르는소리때문에 잠을못자겠어요 거슬려죽겠네요 ",
+                "SentimentWord": "4",
+                "SentimentPolarity": "-1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": "매트깔고 잤는데 따뜻한지 모르겠어요. ",
+                "SentimentWord": "4",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "8655",
+        "RawText": "00 온수매트  사용했는데 고장나서 교체했는데 일단 조용하고 따뜻해서 추천해요.",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블+더블)",
+        "ReviewScore": "100",
+        "Syllable": "44",
+        "Word": "9",
+        "RDate": "20210914",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "소음",
+                "SentimentText": "조용하고 따뜻해서 추천해요.",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": "따뜻해서 추천해요.",
+                "SentimentWord": "2",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8656",
+        "RawText": "광고는 사람이 전원을끄지안아도시간이지나면 자동으로커진다고광고해서 일부러 이제품구밉했는데 실망스럽습니다. 디자인도 옛날 디자인 촌스려워 부모닙께 드렸네요 광고와는 다르게 모르고전원안끄고나갔다가 저녁 늦게 돌아와 보니 그대로 켜저 있어요 편리함이 하나도 없네요 제발과대광고하지마세요.",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(싱글)",
+        "ReviewScore": "10",
+        "Syllable": "156",
+        "Word": "27",
+        "RDate": "20211024",
+        "Aspects": [
+            {
+                "Aspect": "디자인",
+                "SentimentText": "디자인도 옛날 디자인 촌스려워 부모닙께 드렸네요",
+                "SentimentWord": "6",
+                "SentimentPolarity": "-1"
+            },
+            {
+                "Aspect": "편의성",
+                "SentimentText": "광고와는 다르게 모르고전원안끄고나갔다가 저녁 늦게 돌아와 보니 그대로 켜저 있어요 편리함이 하나도 없네요",
+                "SentimentWord": "13",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "8657",
+        "RawText": "색상 디자인 광고랑 똑같네요 두께가 정말 얇아요 보관할때 너무좋을것같아요",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(싱글)",
+        "ReviewScore": "100",
+        "Syllable": "40",
+        "Word": "9",
+        "RDate": "20211026",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "색상",
+                "SentimentText": "색상 디자인 광고랑 똑같네요",
+                "SentimentWord": "4",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "디자인",
+                "SentimentText": "디자인 광고랑 똑같네요",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "무게",
+                "SentimentText": "두께가 정말 얇아요보관할때 너무좋을것같아요",
+                "SentimentWord": "4",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "8658",
+        "RawText": "온도 조절기에서 귀뚜라미 소리같은 미세한 소리가 납니다. 이거 불량인건지..원래 이 제품이 그런건지 모르겠네요. 가습기 소리도 거슬려서 끄고 자는데..  한 겨울에는 좀 걱정이 되네요..",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(싱글)",
+        "ReviewScore": "50",
+        "Syllable": "104",
+        "Word": "23",
+        "RDate": "20210905",
+        "GeneralPolarity": "-1",
+        "Aspects": [
+            {
+                "Aspect": "소음",
+                "SentimentText": "온도 조절기에서 귀뚜라미 소리같은 미세한 소리가 납니다.",
+                "SentimentWord": "7",
+                "SentimentPolarity": "-1"
+            },
+            {
+                "Aspect": "품질",
+                "SentimentText": "이거 불량인건지..원래 이 제품이 그런건지 모르겠네요.",
+                "SentimentWord": "6",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "12698",
+        "RawText": "코드연결부위가 안들어가서 기존에 사용하던것과 교체했어요 ㅠ 쿠션감도 별로인게 괜히 샀나봐요 ㅠㅠ",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "(온라인) 일월 절전형 양모매트 초특가_싱글",
+        "ReviewScore": "80",
+        "Syllable": "53",
+        "Word": "11",
+        "RDate": "20211130",
+        "Aspects": [
+            {
+                "Aspect": "품질",
+                "SentimentText": "코드연결부위가 안들어가서 기존에 사용하던것과 교체했어요 ㅠ",
+                "SentimentWord": "6",
+                "SentimentPolarity": "-1"
+            },
+            {
+                "Aspect": "조작성",
+                "SentimentText": "쿠션감도 별로인게 괜히 샀나봐요 ㅠㅠ",
+                "SentimentWord": "5",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "12707",
+        "RawText": "불량품을 보내주셨네요ㅠ 교환하는것도 힘들었어요. 교환기간이 길었지만 .... ㅠㅠ 기능이 좋아 지금은 제품 잘쓰고 있어요.",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 50W 초절전형 전기매트 미니싱글",
+        "ReviewScore": "40",
+        "Syllable": "68",
+        "Word": "14",
+        "RDate": "20211121",
+        "Aspects": [
+            {
+                "Aspect": "품질",
+                "SentimentText": "불량품을 보내주셨네요ㅠ",
+                "SentimentWord": "2",
+                "SentimentPolarity": "-1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": "기능이 좋아 지금은 제품 잘쓰고 있어요.",
+                "SentimentWord": "6",
+                "SentimentPolarity": "0"
+            }
+        ]
+    },
+    {
+        "Index": "12708",
+        "RawText": "1인용이지만 너무 작네요  폭과 길이가 20cm쯤   성능은 좋아서 만족스러워요. 우리나라 사람들이 체형이 많이 커졌잖아요",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 50W 초절전형 전기매트 미니싱글",
+        "ReviewScore": "60",
+        "Syllable": "68",
+        "Word": "14",
+        "RDate": "20211211",
+        "GeneralPolarity": "0",
+        "Aspects": [
+            {
+                "Aspect": "사이즈",
+                "SentimentText": "1인용이지만 너무 작네요",
+                "SentimentWord": "3",
+                "SentimentPolarity": "-1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": "성능은 좋아서 만족스러워요.",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "12709",
+        "RawText": "전기매트 너무 좋네여. 싸이즈 작은거 알고샀는데 저한테 딱이네요, 딱 그만한 싸이즈(1인용보다는 작고, 휴대용보다는 큰 싸이즈)원했는데 싼 가격에 잘샀어요",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 50W 초절전형 전기매트 미니싱글",
+        "ReviewScore": "100",
+        "Syllable": "86",
+        "Word": "18",
+        "RDate": "20211115",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "품질",
+                "SentimentText": "전기매트 너무 좋네여.",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "사이즈",
+                "SentimentText": "싸이즈 작은거 알고샀는데 저한테 딱이네요,",
+                "SentimentWord": "5",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "가격",
+                "SentimentText": "싼 가격에 잘샀어요",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "12710",
+        "RawText": "우연히 발견한  전기 매트 ㆍ그동안엔 겨울에 극세사 담요만  덮고 티비봣는데.. 소파에 전기매트 깔아놓음 따뜻하니 넘좋아요 ㆍ 따뜻하게  잘  쓸게요~ 가격대비 좋아요",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 50W 초절전형 전기매트 미니싱글",
+        "ReviewScore": "80",
+        "Syllable": "93",
+        "Word": "21",
+        "RDate": "20211109",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "기능",
+                "SentimentText": "소파에 전기매트 깔아놓음 따뜻하니 넘좋아요",
+                "SentimentWord": "5",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "가격",
+                "SentimentText": "가격대비 좋아요",
+                "SentimentWord": "2",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "12711",
+        "RawText": "판매자님 미니싱글이라지만 크기가 너무 작아요 ㅠㅠ 그리고   5단으로 해놓고 하루켜놓아도  안따뜻하고 미적지근해요 ㅠㅠ 그니깐 첨부터 교환문의할때 했어야했어요 ㅡㅡ반품까다롭네요",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 50W 초절전형 전기매트 미니싱글",
+        "ReviewScore": "10",
+        "Syllable": "98",
+        "Word": "18",
+        "RDate": "20211231",
+        "Aspects": [
+            {
+                "Aspect": "사이즈",
+                "SentimentText": "미니싱글이라지만 크기가 너무 작아요 ㅠㅠ",
+                "SentimentWord": "5",
+                "SentimentPolarity": "-1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": "5단으로 해놓고 하루켜놓아도  안따뜻하고 미적지근해요 ㅠㅠ",
+                "SentimentWord": "6",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "12712",
+        "RawText": "전기매트 깔고 한번 누워봤는데 작네요~ ㅋㅋ 별로 따뜻하지도 않아요~ ㅠ",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 50W 초절전형 전기매트 미니싱글",
+        "ReviewScore": "10",
+        "Syllable": "40",
+        "Word": "10",
+        "RDate": "20211030",
+        "Aspects": [
+            {
+                "Aspect": "사이즈",
+                "SentimentText": "전기매트 깔고 한번 누워봤는데 작네요~ ㅋㅋ",
+                "SentimentWord": "6",
+                "SentimentPolarity": "-1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": "별로 따뜻하지도 않아요~ ㅠ",
+                "SentimentWord": "4",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "12713",
+        "RawText": "타사제품하고 비교했는데  금액부담이커서 OOO로 구매했어요~  근데 사용해보니까   가격좋고 엄청 뜨시고 좋네요~  후회안해요~^^",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블)",
+        "ReviewScore": "100",
+        "Syllable": "73",
+        "Word": "12",
+        "RDate": "20211117",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "가격",
+                "SentimentText": "근데 사용해보니까   가격좋고 엄청 뜨시고 좋네요~  후회안해요~^^",
+                "SentimentWord": "7",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": "엄청 뜨시고 좋네요~  후회안해요~^^",
+                "SentimentWord": "4",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "12714",
+        "RawText": "여러가지 안전장치가 있어 좋긴한데 생각보다 얇아서 위에 가벼운 매트하나 더 깔아야 될듯합니다.뜨거워요ㅠ 그래도 따뜻 하겠지요.",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블)",
+        "ReviewScore": "60",
+        "Syllable": "70",
+        "Word": "15",
+        "RDate": "20210926",
+        "GeneralPolarity": "0",
+        "Aspects": [
+            {
+                "Aspect": "기능",
+                "SentimentText": "여러가지 안전장치가 있어 좋긴한데",
+                "SentimentWord": "4",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "사이즈",
+                "SentimentText": "생각보다 얇아서 위에 가벼운 매트하나 더 깔아야 될듯합니다.뜨거워요ㅠ",
+                "SentimentWord": "8",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "12715",
+        "RawText": "첨부터 전원콘센트가 잘 안됐었는데 어쩌다보면 또 전원이 켜지기도해서 그냥사용했는데 이젠 아예 전원이 안켜져요.어떻게해야되죠? 추운데미치겠어요ㅠㅠ 품질 실망이에요",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블)",
+        "ReviewScore": "80",
+        "Syllable": "89",
+        "Word": "16",
+        "RDate": "20211111",
+        "GeneralPolarity": "-1",
+        "Aspects": [
+            {
+                "Aspect": "품질",
+                "SentimentText": "이젠 아예 전원이 안켜져요.어떻게해야되죠? 추운데미치겠어요ㅠㅠ",
+                "SentimentWord": "5",
+                "SentimentPolarity": "-1"
+            },
+            {
+                "Aspect": "품질",
+                "SentimentText": "품질 실망이에요",
+                "SentimentWord": "2",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "12716",
+        "RawText": "구매분들에상품평을보고구매했는데. 디자인은 예뻐서 좋은데 두께가 얇은게 아쉽네요~~ ",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블)",
+        "ReviewScore": "60",
+        "Syllable": "46",
+        "Word": "7",
+        "RDate": "20211002",
+        "Aspects": [
+            {
+                "Aspect": "디자인",
+                "SentimentText": "디자인은 예뻐서 좋은데",
+                "SentimentWord": "3",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "사이즈",
+                "SentimentText": "두께가 얇은게 아쉽네요~~",
+                "SentimentWord": "3",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "12717",
+        "RawText": "딸아이 싱글매트에는 크지만 캠핑용등 다용도로 사용하려니 더블은 있어야...ㅎ 아이들이 따뜻하다하니 좋아요~기능 만족입니다  물세탁가능하고 전자파수치도 낮아 여러 걱정을 덜었네요ㅋ 잘쓸게요",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블)",
+        "ReviewScore": "100",
+        "Syllable": "104",
+        "Word": "19",
+        "RDate": "20211027",
+        "GeneralPolarity": "1",
+        "Aspects": [
+            {
+                "Aspect": "기능",
+                "SentimentText": "아이들이 따뜻하다하니 좋아요~기능 만족입니다",
+                "SentimentWord": "4",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "편의성",
+                "SentimentText": "물세탁가능하고 전자파수치도 낮아 여러 걱정을 덜었네요ㅋ",
+                "SentimentWord": "6",
+                "SentimentPolarity": "1"
+            },
+            {
+                "Aspect": "내구성",
+                "SentimentText": "전자파수치도 낮아 여러 걱정을 덜었네요ㅋ",
+                "SentimentWord": "5",
+                "SentimentPolarity": "1"
+            }
+        ]
+    },
+    {
+        "Index": "12718",
+        "RawText": "디자인도 별로고 분리난방이 안되서 반품하려고하니 싸이트상에서는 안되게되어있고 상담원 힘들게 기다려 전화연결하니  반품부적사유많아서 까다롭고 좀 나쁘네요 바쁜데 이렇게하게 해놨다니 반품절차 어이가없네요",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블)",
+        "ReviewScore": "10",
+        "Syllable": "111",
+        "Word": "20",
+        "RDate": "20210914",
+        "Aspects": [
+            {
+                "Aspect": "디자인",
+                "SentimentText": "디자인도 별로고",
+                "SentimentWord": "2",
+                "SentimentPolarity": "-1"
+            },
+            {
+                "Aspect": "기능",
+                "SentimentText": "분리난방이 안되서 반품하려고하니",
+                "SentimentWord": "3",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    },
+    {
+        "Index": "12719",
+        "RawText": "상품.받은후 사용안하고 2개월후사용 하려니 전원이 안들어오고따뜻하지않아 고객센터 의뢰한결과도 불량입니다ㅠ 고객 여러분 들이제품 전체 불량 엉터리입니다 돈아깝네요 ㅠ 품질검사 제대로 해주세요",
+        "Source": "SNS",
+        "Domain": "가전",
+        "MainCategory": "계절가전",
+        "ProductName": "일월 스타일쉬 스마트 카본매트(더블+더블)",
+        "ReviewScore": "10",
+        "Syllable": "105",
+        "Word": "20",
+        "RDate": "20211227",
+        "GeneralPolarity": "-1",
+        "Aspects": [
+            {
+                "Aspect": "품질",
+                "SentimentText": "전원이 안들어오고따뜻하지않아 고객센터 의뢰한결과도 불량입니다ㅠ",
+                "SentimentWord": "5",
+                "SentimentPolarity": "-1"
+            },
+            {
+                "Aspect": "품질",
+                "SentimentText": "제품 전체 불량 엉터리입니다 돈아깝네요 ㅠ",
+                "SentimentWord": "6",
+                "SentimentPolarity": "-1"
+            }
+        ]
+    }
+]
