@@ -41,7 +41,7 @@ class split_sentence(preprocess):
         self.reviws = []
         current_product = None
         
-        with open('test.txt', 'r', encoding='utf-8') as f:
+        with open(os.path.join(self.path,'{args.product_type}.txt'), 'r', encoding='utf-8') as f:
             data = f.readlines()
 
             for line in data:
