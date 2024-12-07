@@ -41,6 +41,10 @@ class preprocess:
              
         if  self.product_type is not None:
             self.path = os.path.join(self.path,self.product_type)
+
+        else:
+            self.product = ["가습기","공기청정기","매트","보일러","선풍기","에어컨","온수기","제습기","히터"]
+            
         
         
         data_list =  [file for file in os.listdir(self.path) if file.endswith('.json')]
