@@ -142,8 +142,22 @@ class recomend(preprocess):
         data = self.normalize()
         a = np.dot(data,user_input.T)
         rr = np.argsort(a)[-3:]
+        pp = []
         
-        for ind,product in enumerate(self.row):
+        for ind,product in enumerate( self.product_name()):
             for i in rr:
                 if ind == i:
-                    print(product)
+                    pp.append(product)
+                    
+        return pp
+     
+                    
+    def get_positive_reviews(self,product_name):
+        positive_reviews = []
+        for d in self.data:
+            if d.get('ProductName') == product_name:
+                for a in d.get('Aspects'):
+                    if a.get('SentimentPolarity') == 1:
+                        positive_reviews.append(a.get('SentimentText'))
+                        
+        return positive_reviews[:3]
